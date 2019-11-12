@@ -1003,11 +1003,11 @@ nav#mainNav  .active{
 
 
 
-/*Portfolio*/
+/*projects*/
 
 
 
-#portfolio .secTitle{
+#projects .secTitle{
 	background:#f97c39;
 }
 
@@ -1063,7 +1063,7 @@ ul#category li a:hover{
 
 
 
-#works .portfolio {
+#works .projects {
 	margin-left:20px;
     
 }
@@ -1270,7 +1270,7 @@ ul#category li a:hover{
 }
 
 
-/*End portfolio*/
+/*End projects*/
 
 
 
@@ -1634,7 +1634,7 @@ ul#category li a:hover{
 	
 
 	
-	#works .portfolio{margin-left:38px;}
+	#works .projects{margin-left:38px;}
 	.folioImg img{width:290px;height:200px;}
 	
 	
@@ -1697,7 +1697,7 @@ ul#category li a:hover{
 	.testimoniaContainer .testimonialContent div{width:400px;}
 	ul#category li{display:block;}
 	ul#category li a{margin-right:0;margin-bottom:12px;padding:10px 30px;}
-	#works .portfolio{margin-left:25px;}
+	#works .projects{margin-left:25px;}
 	.folioImg img {height: 240px;width: 340px;}
 	.contactForm {margin-left:14px}
 	.contactForm input.submit {left: 22.7%;top: 523px;width: 50.6%;}
@@ -1795,7 +1795,7 @@ ul#category li a:hover{
 	
 	ul#category li{display:block;}
 	ul#category li a{margin-right:0;margin-bottom:12px;padding:10px 30px;}
-	#works .portfolio{margin-left:-5px;}
+	#works .projects{margin-left:-5px;}
 	#works .item {width:230px;margin-right:0;}
 	.folioImg img{height:170px;}
 	
